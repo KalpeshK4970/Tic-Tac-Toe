@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe {https://kalpeshk4970.github.io/Tic-Tac-Toe/}
 
 A simple tic-tac-toe game built using html, css and vanilla javascript
 
